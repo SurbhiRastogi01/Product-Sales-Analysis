@@ -46,6 +46,6 @@ Python Programming
 'notebook822c29f7fa.ipynb' - Complete analysis notebook
 ## Kaggle Project
 The complete interactive analysis is available on kaggle.
-**Kaggle:** Add your Kaggle project link here.
+**Kaggle:** [View Kaggle Notebook](https://www.kaggle.com/code/shineinsky/notebook822c29f7fa).
 ## Author
 **Surbhi Rastogi**
